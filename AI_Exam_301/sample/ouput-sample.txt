@@ -1,0 +1,11 @@
+Problem 01
+	Part 1: 8105
+	Part 2: 2363
+
+Problem 02
+	Part 1: TLFGBZHCN
+	Part 2: QRQFHFWCL
+
+Problem 03
+	Part 1: 456
+	Part 2: 454
