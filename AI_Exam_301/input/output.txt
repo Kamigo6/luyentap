@@ -1,0 +1,11 @@
+Problem 01
+    Part 1: 8298
+    Part 2: 2708
+
+Problem 02
+	Part 1: CNSZFDVLJ
+	Part 2: QNDWLMGNS
+
+Problem 03
+	Part 1: 481
+	Part 2: 480
