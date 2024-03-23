@@ -25,7 +25,7 @@ def main():
         rucksack_contents = [line.strip() for line in file]
 
     total_priority = sum_of_priorities(rucksack_contents)
-    print("Sum of priorities:", total_priority)
+    print(total_priority)
 
 
 if __name__ == "__main__":

@@ -35,7 +35,7 @@ def main():
 
     # Calculate sum of priorities for badge item types
     total_priority = sum_of_priorities(badge_item_types)
-    print("Sum of priorities for badge item types:", total_priority)
+    print(total_priority)
 
 if __name__ == "__main__":
     main()
