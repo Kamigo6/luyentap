@@ -20,7 +20,7 @@ def sum_of_priorities(rucksack_contents):
 def main():
     # Read rucksack contents from file
     # Update with file path
-    file_path = "input-sample-01.txt" 
+    file_path = "input-01.txt" 
     with open(file_path, 'r') as file:
         rucksack_contents = [line.strip() for line in file]
 
